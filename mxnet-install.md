@@ -12,11 +12,13 @@
 
 得到如下提示：
 
+```
 Collecting package metadata: done
 Solving environment: done
+```
 
 ## Package Plan ##
-
+```
   environment location: /Users/zxzpc/anaconda3/envs/mxnet
 
 Proceed ([y]/n)? y
@@ -33,21 +35,27 @@ Executing transaction: done
 # To deactivate an active environment, use
 #
 #     $ conda deactivate
+```
+
 第2步：激活mxnet环境
 
 根据上面的提示，运行如下命令：
-
+```
 conda activate mxnet
+```
 正式安装MXNet
 
 命令如下：
-
+```
 conda install mxnet
+```
 接下来的提示如下：
-
+```
 Collecting package metadata: done
 Solving environment: done
+```
 
+```
 ## Package Plan ##
 
   environment location: ............./anaconda3/envs/mxnet
@@ -140,4 +148,6 @@ mkl-2019.4           | 155.2 MB  | ##################################### | 100%
 Preparing transaction: done
 Verifying transaction: done
 Executing transaction: done
+
+```
 至此，MXNet安装结束
