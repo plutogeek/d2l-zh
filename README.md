@@ -30,6 +30,9 @@ BibTeX entry:
 
 https://blog.51cto.com/zhuxianzhong/2412065?source=drt
 
+## 深度学习的本质
+
+深度学习的本质是数据拟合
 
 ## 贡献
 
